@@ -33,8 +33,18 @@ p:hover {
 }
 li {
     font-size: 24px;
+    margin-bottom: 20px;
 }
 li:hover {
     font-size: 26px;
     color: white;
+}
+ol {
+    margin-left: 40px;
+}
+p {
+    margin-left: 40px;
+}
+.social {
+    margin-left: 50px;
 }
